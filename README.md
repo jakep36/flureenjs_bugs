@@ -1,4 +1,4 @@
 # flureenjs_bugs
 
-`npm install`
-`node index.mjs`
+- `npm install`
+- `node index.mjs`
